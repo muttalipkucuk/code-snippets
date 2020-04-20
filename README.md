@@ -1,3 +1,3 @@
-**Q** git-diff to ignore ^M
+Q: git-diff to ignore ^M
 
-**A** `git config --global core.autocrlf true`
+A: `git config --global core.autocrlf true`
